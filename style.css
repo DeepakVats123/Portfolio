@@ -806,20 +806,29 @@ footer .accounts div i {
   }
   .myself .myselfLeft {
     width: 100%;
+    margin: auto;
+    text-align: center;
+    margin-top: 40px;
   }
   .myself .myselfRight {
-    width: 100%;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+  }
+  .fswd{
+    margin: auto;
   }
   #about .profileimg {
     margin: auto;
-    width: 90%;
+    width: 75%;
   }
   #about .aboutme {
     line-height: 1.2;
+    text-align: center;
   }
   #about .aboutme p {
     font-size: 16px;
-    margin: 15px 0;
+    margin: 18px 0;
   }
   .skillsdiv h2 {
     font-size: 26px;
