@@ -600,6 +600,9 @@ footer .accounts div i {
   color: #3a6fe2;
   font-weight: bold;
 }
+.soft {
+  font-size: 13px;
+}
 
 @media (max-width: 1030px) {
   .myselfLeft h1 {

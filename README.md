@@ -1,7 +1,7 @@
 # Deepak Vats Portfolio
 
 Hello friends 👋
-This is my <a href="https://deepak-vats-portfolio-varsion1.netlify.app/">Portfolio</a> 
+This is my <a href="https://deepak-vats-portfolio-v1.netlify.app/">Portfolio</a> 
 <hr/>
 
 # Tech Used
